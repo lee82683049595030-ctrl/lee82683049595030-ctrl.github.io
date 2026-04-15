@@ -4,7 +4,8 @@ nav:
   - 欢迎页: README.md
   - FastUMI Go 使用手册: FastUMI Go使用手册.md
 theme:
-  name: readthedocs
+  name: material
+  language: zh-CN
   highlightjs: true
 plugins:
   - search
