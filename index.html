@@ -18,11 +18,14 @@
       subMaxLevel: 3,
       // 强制指定首页
       homepage: 'README.md',
-      // 修复中文路径/空格路径问题
+      // 修复中文/空格路径的路由问题
       router: {
         mode: 'hash',
         base: '/'
       },
+      // 自动加载侧边栏
+      loadSidebar: true,
+      subMaxLevel: 3,
       search: {
         placeholder: '搜索文档...',
         noData: '无匹配结果',
