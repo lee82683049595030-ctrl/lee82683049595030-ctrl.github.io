@@ -1,2 +1,4 @@
-- 文档首页
-  - [欢迎使用](sslocal://flow/file_open?url=README.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- 首页
+  - [欢迎页](sslocal://flow/file_open?url=README.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- 文档中心
+  - [FastUMI Go 使用手册](sslocal://flow/file_open?url=FastUMI%2520Go%25E4%25BD%25BF%25E7%2594%25A8%25E6%2589%258B%25E5%2586%258C%2FREADME.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
