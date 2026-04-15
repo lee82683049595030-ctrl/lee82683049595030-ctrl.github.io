@@ -1,0 +1,10 @@
+site_name: FastUMI Go 使用手册
+site_url: https://lee82683049595030-ctrl.github.io/
+nav:
+  - 欢迎页: README.md
+  - FastUMI Go 使用手册: FastUMI%20Go%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md
+theme:
+  name: readthedocs
+  highlightjs: true
+plugins:
+  - search
